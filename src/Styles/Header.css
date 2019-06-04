@@ -1,0 +1,19 @@
+.container {
+  padding: 0px;
+  margin: 0px;
+  height: auto;
+  width: 100%;
+}
+
+.navbar-brand {
+  height: auto;
+}
+
+.home-logo-size {
+  height: 90px;
+  margin-left: 105px;
+}
+
+a > .home-logo-link {
+  text-decoration: none;
+}
